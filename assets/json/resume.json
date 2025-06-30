@@ -1,0 +1,71 @@
+{
+  "work": [
+    {
+      "name": "R&D Scientist",
+      "position": "Ubisoft La Forge",
+      "url": "https://www.ubisoft.com/en-us/studio/laforge",
+      "startDate": "2023-12",
+      "summary": "",
+      "highlights": ["Lead the definition and development of research initiatives in natural phenomenon modeling and physics-based animation.", "Collaborate with team members and game production teams to create new algorithms for generating more realistic worlds and improving content creation pipelines.", "Supervise research students, driving initiatives that offer value to both academia and the industry.", "Stay up to date with the latest advancements in graphics research while aligning with the needs of Ubisoft’s productions.", "Co-lead a community of practice centered on water-related technologies for games, connecting Ubisoft developers and artists across studios worldwide."]
+    },
+    {
+      "name": "R&D Engineer",
+      "position": "Ubisoft La Forge",
+      "url": "https://www.ubisoft.com/en-us/studio/laforge",
+      "startDate": "2021-09",
+      "endDate": "2023-12",
+      "summary": "",
+      "highlights": ["Develop prototypes and transform them into minimal viable products for game development teams.", "Validate the team’s research through technical prototyping.", "Explore new techniques to support artists in digital content creation and enhance the creation of more interactive worlds."]
+    },
+    {
+      "name": "R&D Intern",
+      "position": "Technicolor",
+      "url": "https://www.technicolor.com/",
+      "startDate": "2016-03",
+      "endDate": "2016-08",
+      "summary": "",
+      "highlights": ["Implementation of a user-friendly, real-time realistic sky system for VFX and animation productions.", "Created procedural models for animated volumetric clouds using cellular automata, introducing dynamic and realistic elements to scenes.", "Implementation of an efficient volumetric rendering based on user-defined parameters such as weather and time of day."]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Board Member",
+      "position": "Montreal ACM SIGGRAPH",
+      "url": "https://montreal.siggraph.org/#:~:text=Montr%C3%A9al%20ACM%20SIGGRAPH%20est%20une,industries%20et%20le%20d%C3%A9veloppement%20professionnel.",
+      "startDate": "2023-11",
+      "summary": "",
+      "highlights": ["Organize various events to bring together the local computer graphics community.", "Assist with the broader management and operations of the association."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ph.D. in Computer Science",
+      "url": "https://www.umontreal.ca/",
+      "area": "Computer Graphics",
+      "studyType": "Université de Montréal / Université de Poitiers",
+      "startDate": "2016-01",
+      "endDate": "2021-11",
+      "courses": ["Thesis Title: Tools for Fluid Control in Computer Graphics", "My doctoral research centered on creating efficient and intuitive techniques for art-directing smoke and liquid simulations in both 2D and 3D numerical environments.", "The thesis was supervised by Pierre Poulin (LIGUM, Université de Montréal) and Philippe Meseure (XLIM, Université de Poitiers)."]
+    }
+    ,
+    {
+      "institution": "M.Sc. / Engineering Degree in Computer Science",
+      "url": "https://www.ensicaen.fr/",
+      "area": "Computer Science",
+      "studyType": "Ecole Nationale Supérieure d'Ingénieurs de Caen (ENSICAEN)",
+      "startDate": "2013-09",
+      "endDate": "2016-08",
+      "courses": ["Computer graphics", "Image processing and analysis", "Software engineering & Design patterns", "Project management", "Data mining & Artificial Intelligence", "Parallel programming", "Algebra & Analysis"]
+    }
+    ,
+    {
+      "institution": "Master d'Administration des Entreprises (MAE)",
+      "url": "https://www.iae.unicaen.fr/",
+      "area": "Management and Business Administration",
+      "studyType": "Institut d'administration des entreprises (IAE) de Caen",
+      "startDate": "2014-09",
+      "endDate": "2016-08",
+      "courses": ["Project management", "Team management", "Human resources management", "Marketing", "Applied statistics", "Economy", "Financial analysis", "Legal business environment"]
+    }
+  ]
+}
